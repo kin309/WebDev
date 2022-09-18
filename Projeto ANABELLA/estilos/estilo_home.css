@@ -1,0 +1,11 @@
+.conteudo {
+    background-color: rgb(232, 228, 211);
+}
+
+.conteudo .primeiro-elemento {
+    margin: 10px;
+}
+
+.container .footer{
+    text-align: center;
+}

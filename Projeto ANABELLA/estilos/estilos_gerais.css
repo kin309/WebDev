@@ -1,0 +1,41 @@
+body {
+    background-image: url("imagens/fundo.png");
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: rgb(124, 109, 88);
+}
+
+.conteudo img {
+    border: 10px solid rgb(184, 179, 143);
+}
+
+.container {
+    width: 900px;
+}
+
+.conteudo .primeiro-elemento {
+    margin: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.menu {
+    background-color: rgb(184, 179, 143);
+}
+
+.menu a {
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(60, 60, 60);
+    padding: 5px;
+}
+
+.conteudo {
+    background-color: rgb(232, 228, 211);
+}
+
+.container .footer{
+    text-align: center;
+}
